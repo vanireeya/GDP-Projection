@@ -170,6 +170,7 @@ class Holder extends Component {
           .style("cursor", "pointer")
           .append("text")
           .attr("class", "text")
+          .style("fill", (d, i) => color(3))
           .text(`${d.value}`)
           .attr("x", d => xScale(d.date) + 5)
           .attr("y", d => yScale(d.value) - 10);
