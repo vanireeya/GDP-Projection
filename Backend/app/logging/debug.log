@@ -1,0 +1,613 @@
+{"message":"Data not found in cache, fetching new data","level":"info"}
+{"message":"Inside dataFetcher getData method ","level":"info"}
+{"message":"Calling Data API","level":"info"}
+{"message":"Response received ==> ","level":"info"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-29 14:04:18"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-29 14:04:18"}
+{"message":"app created","level":"info","timestamp":"2019-04-29 14:04:19"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-29 14:04:23"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-29 14:04:23"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-29 14:04:60"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-29 14:04:60"}
+{"message":"app created","level":"info","timestamp":"2019-04-29 14:04:61"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-29 14:04:65"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-29 14:04:65"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-29 15:04:56"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-29 15:04:57"}
+{"message":"app created","level":"info","timestamp":"2019-04-29 15:04:58"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-29 15:04:61"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-29 15:04:62"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-29 22:04:02"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-29 22:04:02"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-29 22:04:02"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-29 22:04:25"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 22:04:26"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 22:04:77"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 22:04:35"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 22:04:99"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 22:04:54"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-29 22:04:61"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-29 22:04:61"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-29 22:04:61"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-29 22:04:82"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 22:04:47"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-29 23:04:77"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-29 23:04:77"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-29 23:04:77"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-29 23:04:96"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:77"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-29 23:04:47"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-29 23:04:47"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-29 23:04:47"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-29 23:04:68"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-29 23:04:72"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-29 23:04:72"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-29 23:04:72"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-29 23:04:95"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:12"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:54"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:46"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:23"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:84"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:53"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:74"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:39"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:14"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-29 23:04:04"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-29 23:04:04"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-29 23:04:04"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-29 23:04:23"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:14"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:26"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:39"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-29 23:04:65"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-29 23:04:65"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-29 23:04:65"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-29 23:04:85"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:37"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:50"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-29 23:04:34"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-29 23:04:87"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-29 23:04:87"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-29 23:04:87"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-29 23:04:06"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:54"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:95"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:73"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 00:04:43"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 00:04:44"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 00:04:44"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 00:04:64"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:92"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:22"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:49"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:36"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 00:04:44"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 00:04:44"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 00:04:44"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 00:04:70"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:15"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 00:04:86"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 00:04:86"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 00:04:86"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 00:04:06"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:57"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:05"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:80"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:97"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:95"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:39"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:28"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:23"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:92"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:77"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 00:04:50"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 00:04:50"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 00:04:50"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 00:04:96"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:12"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 00:04:40"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 00:04:40"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 00:04:40"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 00:04:59"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:19"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 00:04:69"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 01:04:27"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 01:04:96"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 01:04:95"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 01:04:95"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 01:04:95"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 01:04:14"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 01:04:72"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 01:04:03"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 01:04:03"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 01:04:03"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 01:04:33"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 01:04:53"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 01:04:48"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 01:04:08"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 01:04:08"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 01:04:08"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 01:04:27"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 01:04:72"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 01:04:72"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 01:04:72"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 01:04:93"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 01:04:17"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 01:04:12"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 01:04:54"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 01:04:50"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 01:04:62"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 01:04:62"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 01:04:62"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 01:04:80"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 01:04:93"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:68"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:68"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:69"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:74"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:75"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:23"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:23"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:24"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:27"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:27"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:73"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:18"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:18"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:19"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:22"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:23"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:79"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:79"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:80"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 02:04:00"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:81"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:81"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:82"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:85"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:86"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:52"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:24"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:24"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:25"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:27"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:27"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:05"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:54"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:54"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:55"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:57"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:58"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:03"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:47"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:47"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:47"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:50"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:50"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:57"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:97"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:97"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:98"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:00"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:01"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:61"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:61"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:61"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 02:04:02"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:18"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:18"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:19"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:21"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:22"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:89"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:14"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:14"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:15"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:17"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:18"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:49"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:49"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:49"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:52"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:53"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:84"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:42"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:42"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:43"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:45"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:46"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:51"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:64"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:52"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 02:04:06"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:17"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:17"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:18"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:22"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:23"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:42"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:42"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:42"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 02:04:63"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:74"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:74"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:74"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 02:04:92"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:42"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:42"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:42"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 02:04:61"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:72"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:72"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:72"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 02:04:91"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:27"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:27"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:27"}
+{"message":"Response received ==> ","level":"info","timestamp":"2019-04-30 02:04:45"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:38"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:38"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:39"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:42"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:43"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:68"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:68"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:69"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:71"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:72"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 02:04:79"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 02:04:79"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 02:04:80"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 02:04:83"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 02:04:84"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:17"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:17"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:17"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 02:04:38"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:51"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:51"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:51"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 02:04:68"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:39"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:39"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:39"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 02:04:58"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 02:04:80"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 02:04:80"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 02:04:80"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 02:04:98"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:35"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:35"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:35"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:59"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:69"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:69"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:69"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:90"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:34"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:34"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:34"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:52"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:70"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:70"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:70"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:90"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:46"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:46"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:46"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:75"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:02"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:02"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:02"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:22"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:96"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:96"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:96"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:16"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:96"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:96"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:96"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:18"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:73"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:73"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:73"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:98"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:74"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:74"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:74"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:93"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:72"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:72"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:72"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:93"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:53"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:53"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:53"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:71"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:41"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:41"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:41"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:63"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:88"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:88"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:88"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:07"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:95"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:95"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:95"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:23"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:50"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:50"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:50"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:72"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:67"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:67"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:67"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:86"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:42"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:42"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:42"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:61"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:03"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:03"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:03"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:22"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:82"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:82"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:82"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:01"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:82"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:82"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:82"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:00"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:99"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:99"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:99"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:15"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:74"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:74"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:74"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:93"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:69"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:69"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:69"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:89"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:94"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:94"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:94"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:13"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:21"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:21"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:21"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:40"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:61"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:61"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:61"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:78"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:83"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:83"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:83"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:02"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:21"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:21"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:21"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:39"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:02"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:02"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:02"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:20"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:73"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:73"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:73"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:89"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:58"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:58"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:58"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:80"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 09:04:00"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:43"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:43"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:43"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:65"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:66"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:66"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:66"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:83"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:08"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:08"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:08"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:24"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:38"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:38"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:38"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:56"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:48"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:48"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:48"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:69"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:07"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:07"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:07"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:26"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:38"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:38"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:38"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:55"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:09"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:09"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:09"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:28"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:38"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:38"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:38"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:56"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:25"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:25"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:25"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:45"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:09"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:09"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:09"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:27"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:20"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:20"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:20"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:39"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 09:04:23"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 09:04:23"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 09:04:23"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 09:04:42"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:36"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:36"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:36"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:58"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:60"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:60"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:60"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:77"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:45"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:45"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:45"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:64"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:79"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:79"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:79"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:97"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:57"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:57"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:57"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:75"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:35"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:35"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:36"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:54"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:77"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:77"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:77"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:94"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:18"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:18"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:18"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:40"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:07"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:07"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:07"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:24"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:72"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:72"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:72"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:92"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:98"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:98"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:98"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:15"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:85"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:85"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:85"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:05"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:96"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:96"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:96"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:15"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:35"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:35"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:35"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:53"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:53"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:53"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:53"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:71"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:12"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:12"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:12"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:32"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:84"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:84"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:84"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:03"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:14"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:14"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:15"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:76"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:86"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:87"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:87"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:08"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:21"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:21"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:21"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:39"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:23"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:23"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:23"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:41"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:74"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:74"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:74"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:92"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:96"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:96"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:96"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:13"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:42"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:42"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:42"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:60"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 10:04:46"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 10:04:46"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 10:04:46"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 10:04:64"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 11:04:51"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 11:04:51"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 11:04:51"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 11:04:77"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 11:04:79"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 11:04:79"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 11:04:80"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 11:04:84"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 11:04:84"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 11:04:39"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 11:04:39"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 11:04:39"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 11:04:73"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 12:04:05"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 12:04:05"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 12:04:05"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 12:04:24"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 12:04:74"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 12:04:74"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 12:04:75"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 12:04:79"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 12:04:80"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 12:04:27"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 12:04:27"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 12:04:27"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 12:04:50"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:78"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:46"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:46"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 12:04:46"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 12:04:46"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 12:04:46"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 12:04:65"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:75"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:28"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:52"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:31"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:58"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:15"}
+{"message":"Redis Client Created","level":"info","timestamp":"2019-04-30 12:04:77"}
+{"message":"Inside router","level":"info","timestamp":"2019-04-30 12:04:78"}
+{"message":"app created","level":"info","timestamp":"2019-04-30 12:04:78"}
+{"message":"app setup completed","level":"info","timestamp":"2019-04-30 12:04:83"}
+{"message":" Server running at: 8080","level":"info","timestamp":"2019-04-30 12:04:84"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:78"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:88"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:88"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:88"}
+{"message":"Data not found in cache, fetching new data","level":"info","timestamp":"2019-04-30 12:04:82"}
+{"message":"Inside dataFetcher getData method ","level":"info","timestamp":"2019-04-30 12:04:82"}
+{"message":"Calling Data API","level":"info","timestamp":"2019-04-30 12:04:82"}
+{"message":"Response received","level":"info","timestamp":"2019-04-30 12:04:09"}
+{"message":"Data sent successfully from cache ==>","level":"info","timestamp":"2019-04-30 12:04:02"}
