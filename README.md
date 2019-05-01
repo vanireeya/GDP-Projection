@@ -8,11 +8,11 @@ Backend services requests for data for GDP of USA for past 60 years. This is imp
 Frontend calls the backend API which returns the GDP data of U.S.A. for past 60 years. It displays this data in form of line graph. On hovering on the dots of the line graph, you can get the exact GDP value for a particular year. On hovering over the line, it will show USA's increasing trends. 
 
 The Homepage of the application:
-![HomePage](https://github.com/vanireeya/GDP-Projection/tree/master/Screenshots/HomePage.png)
+![Homepage](https://github.com/vanireeya/GDP-Projection/blob/master/Screenshots/HomePage.png)
 
 Hover on the graph dots:
-![HomePage](https://github.com/vanireeya/GDP-Projection/tree/master/Screenshots/Hoverondots.png)
+![Hover on the graph dots](https://github.com/vanireeya/GDP-Projection/blob/master/Screenshots/Hoverondots.png)
 
 Hover on the line:
-![HomePage](https://github.com/vanireeya/GDP-Projection/tree/master/Screenshots/Hoveronline.png)
+![Hover on the line](https://github.com/vanireeya/GDP-Projection/blob/master/Screenshots/Hoveronline.png)
 
