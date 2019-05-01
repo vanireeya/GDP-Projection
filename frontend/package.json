@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/lab": "^3.0.0-alpha.30",
+    "axios": "^0.18.0",
+    "d3": "^5.9.2",
+    "jquery": "^3.4.0",
+    "jquery-ui": "^1.12.1",
+    "jquery-ui-slider": "^1.12.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
