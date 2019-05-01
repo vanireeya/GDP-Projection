@@ -1,68 +1,62 @@
 import React, { Component } from "react";
 import axios from "axios";
 import * as d3 from "d3";
-import { scaleLinear } from "d3-scale";
 import "../assets/styles/graph.css";
-import Slider from "@material-ui/lab/Slider";
+import { TRILLION, URL } from '../constants/iconstants';
+
 
 class Holder extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      data: []
+      data: [],
+      error: false
     };
   }
   componentDidMount() {
-    /* d3.request("http://localhost:8080/api/graph", function(error, response) {
-            console.log("data",response);
-        });*/
 
     axios
-      .get("http://localhost:8080/api/graph")
+      .get(URL)
       .then(response => {
-        console.log(response.data[1]);
         this.setState({
           data: response.data[1]
         });
       })
-      .catch(error => {});
+      .catch(error => {
+        this.setState({
+          error: true
+        });
+      });
   }
 
   render() {
-    // 2. Use the margin convention practice
-    let dd = this.state.data;
+
+    if (this.state.error)
+      return (<div id="chart"> Oops!! Unable to fetch data </div>)
+
+
+
+
+    let rawData = this.state.data;
     let values = [];
-    dd.map(d => {
-      if (d.value != null){
+    rawData.map(d => {
+      if (d.value != null) {
         values.push({
           date: d.date,
-          value: (parseInt(d.value) / 1000000000000).toString()
+          value: (parseInt(d.value) / TRILLION).toString()
         });
-       
+
       }
-        
+
     });
 
-    // values.push({
-    //   date: "2020",
-    //   value: "18.5"
-    // });
-    // values.push({
-    //   date: "2021",
-    //   value: "18.5"
-    // });
-    // values.push({
-    //   date: "2022",
-    //   value: "100"
-    // });
+
     let data = [
       {
         name: "USA",
         values
       }
     ];
-
-    console.log("dadad", data);
 
     let width = 700;
     let height = 300;
@@ -80,16 +74,16 @@ class Holder extends Component {
     let circleRadius = 4;
     let circleRadiusHover = 6;
 
-    /* Format Data */
+    /* Formatting Data */
     let parseDate = d3.timeParse("%Y");
-    data.forEach(function(d) {
-      d.values.forEach(function(d) {
+    data.forEach(function (d) {
+      d.values.forEach(function (d) {
         d.date = parseDate(d.date);
         d.value = +d.value;
       });
     });
 
-    /* Scale */
+    /* Adding Scale */
     let xScale = d3
       .scaleTime()
       .domain(d3.extent(data[0].values, d => d.date))
@@ -102,7 +96,7 @@ class Holder extends Component {
 
     let color = d3.scaleOrdinal(d3.schemeCategory10);
 
-    /* Add SVG */
+    /* Adding SVG */
     let svg = d3
       .select("#chart")
       .append("svg")
@@ -111,7 +105,7 @@ class Holder extends Component {
       .append("g")
       .attr("transform", `translate(${margin}, ${margin})`);
 
-    /* Add line into SVG */
+    /* Adding line into SVG */
     let line = d3
       .line()
       .x(d => xScale(d.date))
@@ -125,7 +119,7 @@ class Holder extends Component {
       .enter()
       .append("g")
       .attr("class", "line-group")
-      .on("mouseover", function(d, i) {
+      .on("mouseover", function (d, i) {
         svg
           .append("text")
           .attr("class", "title-text")
@@ -135,7 +129,7 @@ class Holder extends Component {
           .attr("x", (width - margin) / 2)
           .attr("y", 90);
       })
-      .on("mouseout", function(d) {
+      .on("mouseout", function (d) {
         svg.select(".title-text").remove();
       })
       .append("path")
@@ -143,7 +137,7 @@ class Holder extends Component {
       .attr("d", d => line(d.values))
       .style("stroke", (d, i) => color(3))
       .style("opacity", lineOpacity)
-      .on("mouseover", function(d) {
+      .on("mouseover", function (d) {
         d3.selectAll(".line").style("opacity", otherLinesOpacityHover);
         d3.selectAll(".circle").style("opacity", circleOpacityOnLineHover);
         d3.select(this)
@@ -151,7 +145,7 @@ class Holder extends Component {
           .style("stroke-width", lineStrokeHover)
           .style("cursor", "pointer");
       })
-      .on("mouseout", function(d) {
+      .on("mouseout", function (d) {
         d3.selectAll(".line").style("opacity", lineOpacity);
         d3.selectAll(".circle").style("opacity", circleOpacity);
         d3.select(this)
@@ -171,7 +165,7 @@ class Holder extends Component {
       .enter()
       .append("g")
       .attr("class", "circle")
-      .on("mouseover", function(d) {
+      .on("mouseover", function (d) {
         d3.select(this)
           .style("cursor", "pointer")
           .append("text")
@@ -180,7 +174,7 @@ class Holder extends Component {
           .attr("x", d => xScale(d.date) + 5)
           .attr("y", d => yScale(d.value) - 10);
       })
-      .on("mouseout", function(d) {
+      .on("mouseout", function (d) {
         d3.select(this)
           .style("cursor", "none")
           .transition()
@@ -193,13 +187,13 @@ class Holder extends Component {
       .attr("cy", d => yScale(d.value))
       .attr("r", circleRadius)
       .style("opacity", circleOpacity)
-      .on("mouseover", function(d) {
+      .on("mouseover", function (d) {
         d3.select(this)
           .transition()
           .duration(duration)
           .attr("r", circleRadiusHover);
       })
-      .on("mouseout", function(d) {
+      .on("mouseout", function (d) {
         d3.select(this)
           .transition()
           .duration(duration)
@@ -251,7 +245,7 @@ class Holder extends Component {
       .attr(
         "y",
         yScale(
-          d3.max(data, function(d) {
+          d3.max(data, function (d) {
             return d.value;
           })
         ) - 20
