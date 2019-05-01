@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Reeya Vani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "redis": "^2.8.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "save": "^2.3.3",
+    "winston": "^3.2.1"
+  }
+}
